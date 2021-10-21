@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="I as user of the New Experience" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-21T09:56:48" hostname="PRINCIPAL-DESKT" time="32.174">
+  <properties/>
+  <testcase name="Successful user creation" classname="I as user of the New Experience" time="32.174"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[oct 21, 2021 4:56:49 A. M. org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 95.0.4638.17 (a9d0719444d4b035e284ed1fce73bf6ccd789df2-refs/branch-heads/4638@{#178}) on port 26469
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+oct 21, 2021 4:56:50 A. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
